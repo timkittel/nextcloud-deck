@@ -2,6 +2,7 @@
     <string name="navigation_drawer_open">Öppna navigeringspanelen</string>
     <string name="navigation_drawer_close">Stäng navigeringslådan</string>
     <string name="nav_header_subtitle">Klient för Nextcloud Deck app</string>
+    <string name="nav_header_desc">Navigationshuvud</string>
     <string name="action_settings">Inställningar</string>
 
     <!-- Simple values -->
